@@ -1,3 +1,3 @@
-apache-beam==2.34.0
+apache-beam
 mediapy==1.0.3
 loguru
