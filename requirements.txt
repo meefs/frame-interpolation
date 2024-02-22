@@ -8,6 +8,6 @@ parameterized==0.8.1
 mediapy==1.0.3
 scikit-image==0.19.1
 apache-beam
-google-cloud-bigquery-storage==1.1.0 # Suppresses a harmless error from beam
+google-cloud-bigquery-storage==2.24.0 # Suppresses a harmless error from beam
 natsort==8.1.0
 loguru
