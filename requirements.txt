@@ -6,7 +6,7 @@ absl-py==0.12.0
 gin-config==0.5.0
 parameterized==0.9.0
 mediapy==1.2.0
-scikit-image==0.19.1
+scikit-image==0.23.1
 apache-beam==2.54.0
 google-cloud-bigquery-storage==2.24.0 # Suppresses a harmless error from beam
 natsort==8.1.0
